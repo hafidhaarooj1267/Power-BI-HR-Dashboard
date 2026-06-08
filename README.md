@@ -1,3 +1,4 @@
+<img width="995" height="544" alt="Screenshot 2026-01-30 121402" src="https://github.com/user-attachments/assets/6c79ae2f-e064-4f17-81b5-32be7f22d35b" />
 # HR Analytics Dashboard
 
 ## Project Overview
